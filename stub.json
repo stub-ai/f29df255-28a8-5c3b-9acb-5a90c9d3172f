@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a well styled login component that allows a user to login via OTP verification using Twilio package for SMS sending.","md5":"3a31ef3336238b4e48755bf769c19332"}]}
